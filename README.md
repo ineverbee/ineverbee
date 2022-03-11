@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ow,+nice+to+see+you+here)](https://git.io/typing-svg)
 - 🔭 I’m currently working on telegram bot to ease my life
 - 🌱 I’m currently learning `Redis`, `GORM`
-- 📫 How to reach me: ![Telegram][https//:t.me/ineverbee]
+- 📫 How to reach me: [Telegram](https//:t.me/ineverbee)
 - 😄 Pronouns: he/him
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
